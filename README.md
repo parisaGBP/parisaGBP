@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Parisa Ghorbanpour
+#  👋 Hi, I'm Parisa Ghorbanpour
 
 **AI Researcher & Computer Vision Engineer**  
 Specializing in Image Processing, CNNs, and Reinforcement Learning  
