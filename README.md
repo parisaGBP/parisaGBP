@@ -1,3 +1,7 @@
+<!---
+parisaGBP/parisaGBP is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+-->
+
 #  👋 Hi, I'm Parisa Ghorbanpour
 
 **AI Researcher & Computer Vision Engineer**  
