@@ -31,14 +31,14 @@ Specializing in Image Processing, CNNs, and Reinforcement Learning
 </p>
 
 ---
-## 🎯 Currently Focusing On
+##  Currently Focusing On
 
 -  Advanced CNN architectures for image analysis
 -  Vision Transformers (ViT) for computer vision
 -  Reinforcement Learning agents for visual environments
 
 ---
-## 💼 Current Work
+##  Current Work
 
 **QA Python Automation Engineer** @ [SINA Communication Systems Co.]
 
@@ -53,14 +53,17 @@ Specializing in Image Processing, CNNs, and Reinforcement Learning
   <img src="https://img.shields.io/badge/-Gerrit-EEEEEE?style=flat&logo=gerrit&logoColor=black">
   <img src="https://img.shields.io/badge/-CI/CD-2088FF?style=flat&logo=githubactions&logoColor=white">
 </p>
----
 
-## My GitHub Activity
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=parisaGBP&theme=github&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff)
 
+<!--## My GitHub Activity
+
+
+<!--![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=parisaGBP&theme=github&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff)
+
+<!--
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parisaGBP&theme=dark&hide_border=true)
-
+-->
 
 ---
 
